@@ -1,6 +1,4 @@
-# Project 2: Adversarial Search & Tic-Tac-Toe AI
-**Student Name:** Thein Kyaw Lwin  
-**MMDT ID:** MMDT010  
+Adversarial Search & Tic-Tac-Toe AI
 
 ---
 
